@@ -5,7 +5,7 @@
 If you have any questions or need assistance with SolarPowerTester, please contact us:
 
 - **Email**: 1573950972@qq.com
-- **GitHub Issues**: [Create an issue](https://github.com/yourusername/SolarPowerTester](https://github.com/Heiyixiake/SolarPowerTester/)
+- **GitHub Issues**: [Create an issue](https://github.com/Heiyixiake/SolarPowerTester/issues)
 
 ## Frequently Asked Questions
 
